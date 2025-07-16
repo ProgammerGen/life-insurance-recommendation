@@ -58,3 +58,6 @@ npm run start:prod
 ## Notes
 - Make sure your RDS instance is accessible from your EB environment (VPC/subnet/security group).
 - For production, set `synchronize: false` in TypeORM config and use migrations.
+
+# Link to Live Deployed Version
+[Live Deployed Version](http://backend-env.eba-m2yxwdmv.us-east-1.elasticbeanstalk.com/)

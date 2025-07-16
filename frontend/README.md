@@ -40,3 +40,6 @@ npm start
 
 ## Environment Variables
 - `NEXT_PUBLIC_API_URL` — The base URL of your backend API (e.g., http://backend-env.eba-xxxxxx.us-east-1.elasticbeanstalk.com) In case running locally, set the url to http:localhost:3001
+
+# Link to Live Deployed Version
+[Live Deployed Version](http://life-insurance-frontend-env.eba-ywrmg3ih.us-east-1.elasticbeanstalk.com/)
