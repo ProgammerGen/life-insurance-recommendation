@@ -20,7 +20,7 @@ import { Recommendation } from './recommendations/entities/recommendation.entity
         password: config.get('POSTGRES_PASSWORD'),
         database: config.get('POSTGRES_DB'),
         entities: [Recommendation],
-        synchronize: true, // Set to false in production!
+        synchronize: true,
         autoLoadEntities: true,
         ssl: {
           rejectUnauthorized: false,
